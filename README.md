@@ -1,6 +1,6 @@
 # Simulation of Distributions and Statistical Sampling for Probabilistic Data Analysis and Visualization
 
-This project is designed to generate, analyze, and visualize probabilistic data through the simulation of exponential and normal distributions, leveraging advanced statistical techniques and Python programming. By creating and exploring random samples of varying sizes, it provides insights into the properties of these distributions and their real-world applications through statistical calculations and graphical representations.
+This project is designed to generate, analyze, and visualize probabilistic data through the simulation of exponential, uniform, and normal distributions, leveraging advanced statistical techniques and Python programming. By creating and exploring random samples of varying sizes, it provides insights into the properties of these distributions and their real-world applications through statistical calculations and graphical representations.
 
 ## Project Objectives
 
